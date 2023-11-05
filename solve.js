@@ -29,9 +29,26 @@
 
 //   console.log(bmi(80, 1.80))
 
-function friend(friends){
-    //your code here
-    return friends.filter(name => name.length === 4)
+// function friend(friends){
+//     //your code here
+//     return friends.filter(name => name.length === 4)
+//   }
+
+//   console.log(friend(["Ryan", "Kieran", "Mark"]))
+
+function removeExclamationMarks(s) {
+    //loop through given string
+    //add any character that is not an exclamation mark to a new variable
+    //return new variable with updated string
+    let updatedString = ''
+    for (let i = 0; i < s.length; i++) {
+      if (s[i] === "!") {
+          continue;
+      }else {
+        updatedString += s[i]
+      }
+    }
+    return updatedString;
   }
 
-  console.log(friend(["Ryan", "Kieran", "Mark"]))
+  console.log(removeExclamationMarks("Hello World!"))
