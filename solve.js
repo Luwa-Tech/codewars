@@ -99,3 +99,19 @@
 // //when sort() compares two values, it seends the values to the
 // //compe function, accorrding to the returned (negative, zero, positive value)
 // console.log(rearrange(123456789))
+
+
+// class SmallestIntegerFinder {
+//   findSmallestInt(args) {
+//     //sort array in an ascending order
+//     //get the first integer from array
+//     //return result
+//     let sortedArray = args.sort((a,b) => a-b)
+//     return sortedArray[0]
+//   }
+// }
+
+// let test = new SmallestIntegerFinder()
+// console.log(test.findSmallestInt([78,56,232,12,8]))
+// console.log(test.findSmallestInt([78,56,232,412,228]))
+// console.log(test.findSmallestInt([34, -345, -1, 100]))
