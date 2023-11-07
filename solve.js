@@ -36,19 +36,55 @@
 
 //   console.log(friend(["Ryan", "Kieran", "Mark"]))
 
-function removeExclamationMarks(s) {
-    //loop through given string
-    //add any character that is not an exclamation mark to a new variable
-    //return new variable with updated string
-    let updatedString = ''
-    for (let i = 0; i < s.length; i++) {
-      if (s[i] === "!") {
-          continue;
-      }else {
-        updatedString += s[i]
-      }
-    }
-    return updatedString;
-  }
+// function removeExclamationMarks(s) {
+//     //loop through given string
+//     //add any character that is not an exclamation mark to a new variable
+//     //return new variable with updated string
+//     let updatedString = ''
+//     for (let i = 0; i < s.length; i++) {
+//       if (s[i] === "!") {
+//           continue;
+//       }else {
+//         updatedString += s[i];
+//       }
+//     }
+//     return updatedString;
+//   }
 
-  console.log(removeExclamationMarks("Hello World!"))
+//   console.log(removeExclamationMarks("Hello World!"))
+
+//Given a string of digits, you should replace any digit below 5 //with '0' and any digit 5 and above with '1'. Return the resulting string.
+
+//fakeBin('45385593107843568'), '01011110001100111');
+//(fakeBin('509321967506747'), '101000111101101'); 
+//(fakeBin('366058562030849490134388085'), '011011110000101010000011011');
+
+// const fakeBin = (stringDigits) => {
+//     // return stringDigits.split('').map(char => {
+//     //     return parseInt(char) < 5 ? "0" : "1"
+//     // }).join('')
+
+//     let result = ''
+//     for (let digit of stringDigits) {
+//         if (parseInt(digit) < 5) {
+//             result += '0';
+//         }else {
+//             result += '1';
+//         }
+//     }
+//     return result;
+// }
+
+// console.log(fakeBin('45385593107843568'))
+// console.log(fakeBin('509321967506747'))
+// console.log(fakeBin('366058562030849490134388085'))
+
+// Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+
+// Examples:
+// Input: 42145 Output: 54421
+
+// Input: 145263 Output: 654321
+
+// Input: 123456789 Output: 987654321
+
