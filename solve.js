@@ -88,3 +88,14 @@
 
 // Input: 123456789 Output: 987654321
 
+// const rearrange = (nonInteger) => {
+//     //convert integer to string
+//     //turn integer into an array of characters(split)
+//     //sort in descending order
+//     //join array of integer and then convert to number
+//     //then return result
+//     return parseInt(nonInteger.toString().split('').sort((a, b) => b-a).join(''))
+// }
+// //when sort() compares two values, it seends the values to the
+// //compe function, accorrding to the returned (negative, zero, positive value)
+// console.log(rearrange(123456789))
