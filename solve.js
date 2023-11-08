@@ -134,3 +134,13 @@
 
 //     return [min, max];
 // }
+
+
+// function betterThanAverage(classPoints, yourPoints) {
+//     // Your code here
+//     let average = (classPoints.reduce((a,b) => a + b)) / classPoints.length;
+//     if (average < yourPoints) {
+//       return true;
+//     }
+//     return false;
+//   }
