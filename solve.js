@@ -195,5 +195,14 @@
 //     let newFunc = sortedArray[0]
 //     console.log(newFunc)
 //     return arr.filter(a => newFunc(a))
+
+// let newFunc;
+// for (let infunc of func) {
+//   if (typeof infunc === "function") {
+//     newFunc = infunc
+        //break
+//   }
+// }
+// return arr.filter(a => { return newFunc(a)})
 // }
 // console.log(FindFunction([(a=>a%2==0),9,3,1,0],[1,2,3,4]))
