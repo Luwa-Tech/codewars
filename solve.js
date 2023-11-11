@@ -188,3 +188,12 @@
 
 // we will consider that there are no rotations of strng == ""
 // and for any array arr: contain_all_rots("", arr) --> true
+
+
+// var FindFunction = function(func, arr) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+//     let sortedArray = func.sort((a, b) => a-b)
+//     let newFunc = sortedArray[0]
+//     console.log(newFunc)
+//     return arr.filter(a => newFunc(a))
+// }
+// console.log(FindFunction([(a=>a%2==0),9,3,1,0],[1,2,3,4]))
