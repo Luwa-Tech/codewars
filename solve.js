@@ -206,3 +206,26 @@
 // return arr.filter(a => { return newFunc(a)})
 // }
 // console.log(FindFunction([(a=>a%2==0),9,3,1,0],[1,2,3,4]))
+
+
+
+function reOrdering(text){
+  //your code here
+  let newArr = text.split(' ')
+  let upperStr;
+  for (let i = 0; i < newArr.length; i++) {
+    if(isUpperCase(newArr[i])) {
+      upperStr = newArr[i]
+      newArr.splice(newArr.indexOf(upperStr), 1)
+      newArr.unshift(upperStr)
+      break;
+    }
+  }
+  return newArr.join(' ')
+}
+
+function isUpperCase(str){
+  return str.charAt(0).toUpperCase() === str.charAt(0)
+}
+
+console.log(reOrdering('ming Yao'))
