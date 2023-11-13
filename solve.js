@@ -209,23 +209,37 @@
 
 
 
-function reOrdering(text){
-  //your code here
-  let newArr = text.split(' ')
-  let upperStr;
-  for (let i = 0; i < newArr.length; i++) {
-    if(isUpperCase(newArr[i])) {
-      upperStr = newArr[i]
-      newArr.splice(newArr.indexOf(upperStr), 1)
-      newArr.unshift(upperStr)
-      break;
-    }
-  }
-  return newArr.join(' ')
-}
+// function reOrdering(text){
+//   //your code here
+//   let newArr = text.split(' ')
+//   let upperStr;
+//   for (let i = 0; i < newArr.length; i++) {
+//     if(isUpperCase(newArr[i])) {
+//       upperStr = newArr[i]
+//       newArr.splice(newArr.indexOf(upperStr), 1)
+//       newArr.unshift(upperStr)
+//       break;
+//     }
+//   }
+//   return newArr.join(' ')
+// }
 
-function isUpperCase(str){
-  return str.charAt(0).toUpperCase() === str.charAt(0)
-}
+// function isUpperCase(str){
+//   return str.charAt(0).toUpperCase() === str.charAt(0)
+// }
 
-console.log(reOrdering('ming Yao'))
+// console.log(reOrdering('ming Yao'))
+
+
+// function arr2bin(arr){
+//   //check if array contains a non-integer and return false
+//   //sum all items of array and return binary equivalent
+//   if(arr.length === 0) {
+//     return '0';
+//   }
+//   if(arr.some(el => typeof el !== "number")) {
+//       return false;
+//     }
+//   let sum = arr.reduce((a,b) => a+b, 0);
+//   return sum.toString(2);
+// }
