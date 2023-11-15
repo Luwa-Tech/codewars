@@ -243,3 +243,30 @@
 //   let sum = arr.reduce((a,b) => a+b, 0);
 //   return sum.toString(2);
 // }
+
+function capitalize(s){
+  let sArr = s.split('') ;
+  let even = '';
+  let odd = '';
+  
+  // for(let char of sArr) {
+  //   if(sArr.indexOf(char) % 2) {
+  //     even += char.toUpperCase();
+  //     odd += char;
+  //   }else {
+  //       odd += char.toUpperCase();
+  //       even += char;
+  //   };
+  // };
+  // return [even, odd];
+
+  even = sArr.map((char, index) => index % 2 == 0 ? char.toUpperCase() : char).join('')
+  odd = sArr.map((char, index) => index % 2 !== 0 ? char.toUpperCase() : char).join('')
+  
+  return [even, odd]
+}
+
+console.log(capitalize('abcdef'))
+console.log(capitalize('codewars'))
+console.log(capitalize("codewarriors"))
+console.log(capitalize("abracadabra"))
