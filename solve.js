@@ -245,7 +245,7 @@
 // }
 
 function capitalize(s){
-  let sArr = s.split('') ;
+  let sArr = s.split('');
   let even = '';
   let odd = '';
   
