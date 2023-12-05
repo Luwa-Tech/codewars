@@ -244,29 +244,38 @@
 //   return sum.toString(2);
 // }
 
-function capitalize(s){
-  let sArr = s.split('');
-  let even = '';
-  let odd = '';
+// function capitalize(s){
+//   let sArr = s.split('');
+//   let even = '';
+//   let odd = '';
   
-  // for(let char of sArr) {
-  //   if(sArr.indexOf(char) % 2) {
-  //     even += char.toUpperCase();
-  //     odd += char;
-  //   }else {
-  //       odd += char.toUpperCase();
-  //       even += char;
-  //   };
-  // };
-  // return [even, odd];
+//   // for(let char of sArr) {
+//   //   if(sArr.indexOf(char) % 2) {
+//   //     even += char.toUpperCase();
+//   //     odd += char;
+//   //   }else {
+//   //       odd += char.toUpperCase();
+//   //       even += char;
+//   //   };
+//   // };
+//   // return [even, odd];
 
-  even = sArr.map((char, index) => index % 2 == 0 ? char.toUpperCase() : char).join('')
-  odd = sArr.map((char, index) => index % 2 !== 0 ? char.toUpperCase() : char).join('')
+//   even = sArr.map((char, index) => index % 2 == 0 ? char.toUpperCase() : char).join('')
+//   odd = sArr.map((char, index) => index % 2 !== 0 ? char.toUpperCase() : char).join('')
   
-  return [even, odd]
-}
+//   return [even, odd]
+// }
 
-console.log(capitalize('abcdef'))
-console.log(capitalize('codewars'))
-console.log(capitalize("codewarriors"))
-console.log(capitalize("abracadabra"))
+// console.log(capitalize('abcdef'))
+// console.log(capitalize('codewars'))
+// console.log(capitalize("codewarriors"))
+// console.log(capitalize("abracadabra"))
+
+
+// function min(arr, toReturn) {
+//   // TODO
+//   let smallest = Math.min(...arr);
+//   let indexOfSmallest = arr.indexOf(smallest);
+  
+//   return toReturn === 'value' ? smallest : indexOfSmallest;
+// }
