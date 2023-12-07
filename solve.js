@@ -279,3 +279,26 @@
   
 //   return toReturn === 'value' ? smallest : indexOfSmallest;
 // }
+
+// function nbYear(p0, percent, aug, p) {
+//         let percentIncrease = percent / 100;
+//         let numberOfYears = 1;
+//         let result;
+        
+//         do {
+//           result = Math.floor(p0 + p0 * percentIncrease + aug);
+          
+//           if (result >= p) {
+//             return numberOfYears;
+//           } else {
+//             p0 = result;
+//             numberOfYears++;
+//           }
+//         } while (result < p)
+//         return false;
+// }
+
+
+// console.log(nbYear(1500, 5, 100, 5000))
+// console.log(nbYear(1500000, 2.5, 10000, 2000000))
+// console.log(nbYear(1500000, 0.25, 1000, 2000000))
