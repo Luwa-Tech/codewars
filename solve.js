@@ -307,3 +307,28 @@
 // function smallEnough(a, limit){
 //   return a.every(i => i <= limit);
 // }
+
+// function solution(str, ending){
+//   // get the last char of arg2, since its always going to end as 
+//   // the last item.
+  
+//   // check if the last char of arg2 is the last item in arg1, return
+//   //true or false depending on outcome
+  
+//   if (ending === "") {
+//     return true;
+//   }
+  
+//   if (!str.includes(ending)) {
+//     return false
+//   }
+  
+//   const arg1LastChar = str.charAt(str.length - 1);
+//   const arg2LastChar = ending.charAt(ending.length - 1);
+  
+//   if (arg1LastChar === arg2LastChar) {
+//     return true;
+//   }else {
+//     return false;
+//   }
+// }
