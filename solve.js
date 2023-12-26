@@ -269,7 +269,6 @@
 // console.log(capitalize('abcdef'))
 // console.log(capitalize('codewars'))
 // console.log(capitalize("codewarriors"))
-// console.log(capitalize("abracadabra"))
 
 
 // function min(arr, toReturn) {
