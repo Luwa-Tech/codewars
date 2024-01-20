@@ -267,7 +267,6 @@
 // }
 
 // console.log(capitalize('abcdef'))
-// console.log(capitalize('codewars'))
 
 
 // function min(arr, toReturn) {
