@@ -270,7 +270,6 @@
 
 
 // function min(arr, toReturn) {
-//   // TODO
 //   let smallest = Math.min(...arr);
 //   let indexOfSmallest = arr.indexOf(smallest);
   
