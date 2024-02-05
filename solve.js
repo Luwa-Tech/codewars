@@ -109,7 +109,6 @@
 
 // let test = new SmallestIntegerFinder()
 // console.log(test.findSmallestInt([78,56,232,12,8]))
-// console.log(test.findSmallestInt([78,56,232,412,228]))
 
 // const abbrevName = (name) => {
 //     let nameArr = name.split(' ');
