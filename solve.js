@@ -193,7 +193,7 @@
 // for (let infunc of func) {
 //   if (typeof infunc === "function") {
 //     newFunc = infunc
-        //break
+        
 //   }
 // }
 // return arr.filter(a => { return newFunc(a)})
