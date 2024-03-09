@@ -75,7 +75,8 @@
 //     return result;
 // }
 
-// console.log(fakeBin('366058562030849490134388085'))
+
+// console.log(fakeBin("366058562030849490134388085"))
 
 // Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
 
