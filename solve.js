@@ -190,7 +190,7 @@
 //     console.log(newFunc)
 //     return arr.filter(a => newFunc(a))
 
-// let newFunc;
+// let newFunc
 // for (let infunc of func) {
 //   if (typeof infunc === "function") {
 //     newFunc = infunc
