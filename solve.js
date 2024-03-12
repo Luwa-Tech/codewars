@@ -66,10 +66,10 @@
 
 //     let result = ''
 //     for (let digit of stringDigits) {
-//         if (parseInt(digit) < 5) {
+//         if ( parseInt(digit) < 5 ) {
 //             result += '0';
 //         }else {
-//             result += '1';
+//             result += '1'
 //         }
 //     }
 //     return result;
