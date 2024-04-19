@@ -28,6 +28,7 @@
 //   }
 
 //   console.log(bmi(80, 1.80))
+//   console.log(bmi(80, 1.80))
 
 // function friend(friends){
 //     //your code here
