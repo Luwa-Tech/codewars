@@ -7,11 +7,14 @@
 //     return sum / array.length
 // }else {
 //     return 0;
+
+
 // }
 // }
 
 // console.log(findAverage([1,1,1]))
 // console.log(findAverage([1,2,3]))
+// console.log(findAverage([1,2,3,4]))
 // console.log(findAverage([1,2,3,4]))
 
 // function bmi(weight, height) {
