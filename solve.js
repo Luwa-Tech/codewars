@@ -188,20 +188,17 @@
 // var FindFunction = function(func, arr) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 //     let sortedArray = func.sort((a, b) => a-b)
 //     let newFunc = sortedArray[0]
-//     console.log(newFunc)
 //     return arr.filter(a => newFunc(a))
 
 // let newFunc
 // for (let infunc of func) {
 //   if (typeof infunc === "function") {
 //     newFunc = infunc
-        
 //   }
 // }
 // return arr.filter(a => { return newFunc(a)})
 // }
 // console.log(FindFunction([(a=>a%2==0),9,3,1,0],[1,2,3,4]))
-
 
 
 // function reOrdering(text){
