@@ -242,10 +242,10 @@
 //   let odd = '';
   
 //   // for(let char of sArr) {
-//   //   if(sArr.indexOf(char) % 2) {
+//   //   if (sArr.indexOf(char) % 2) {
 //   //     even += char.toUpperCase();
 //   //     odd += char;
-//   //   }else {
+//   //   } else {
 //   //       odd += char.toUpperCase();
 //   //       even += char;
 //   //   };
@@ -263,6 +263,7 @@
 
 // function min(arr, toReturn) {
 //   let smallest = Math.min(...arr);
+
 //   let indexOfSmallest = arr.indexOf(smallest);
   
 //   return toReturn === 'value' ? smallest : indexOfSmallest;
@@ -286,9 +287,7 @@
 //         return false;
 // }
 
-
 // console.log(nbYear(1500000, 2.5, 10000, 2000000))
-
 
 // function smallEnough(a, limit){
 //   return a.every(i => i <= limit);
@@ -304,7 +303,7 @@
 //   }
   
 //   const arg1LastChar = str.charAt(str.length - 1);
-//   const arg2LastChar = ending.charAt(ending.length - 1)
+//   const arg2LastChar = ending.charAt(ending.length - 1);
   
 //   if (arg1LastChar === arg2LastChar) {
 //     return true;
