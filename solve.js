@@ -38,6 +38,7 @@
 //   }
 
 //   console.log(friend(["Ryan", "Kieran", "Mark"]))
+//   console.log(friend(["Ryan", "Kieran", "Mark"]))
 
 // function removeExclamationMarks(s) {
 //     //loop through given string
@@ -132,7 +133,6 @@
 //     return [min, max];
 // }
 
-
 // function betterThanAverage(classPoints, yourPoints) {
 //     // Your code here
 //     let average = (classPoints.reduce((a,b) => a + b)) / classPoints.length;
@@ -184,7 +184,6 @@
 // we will consider that there are no rotations of strng == ""
 // and for any array arr: contain_all_rots("", arr) --> true
 
-
 // var FindFunction = function(func, arr) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 //     let sortedArray = func.sort((a, b) => a-b)
 //     let newFunc = sortedArray[0]
@@ -199,7 +198,6 @@
 // return arr.filter(a => { return newFunc(a)})
 // }
 // console.log(FindFunction([(a=>a%2==0),9,3,1,0],[1,2,3,4]))
-
 
 // function reOrdering(text){
 //   //your code here
