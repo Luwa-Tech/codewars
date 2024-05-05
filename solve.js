@@ -1,11 +1,16 @@
 // function findAverage(array) {
 //   // your code here
 // if (array.length > 0) {
+
 //     let sum = array.reduce((cur, next) => {
+
 //         return cur + next
 //     })
+
 //     return sum / array.length
-// }else {
+
+// } else {
+    
 //     return 0;
 // }
 // }
