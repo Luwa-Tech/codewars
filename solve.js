@@ -22,7 +22,8 @@
 // console.log(findAverage([1,2,3,4]))
 
 // function bmi(weight, height) {
-//     let BMI = weight / (height*height)
+//     let BMI = weight / (height * height);
+
 //     if (BMI <= 18.5) {
 //       return "Underweight";
 //     } else if (BMI <= 25.0) {
@@ -39,7 +40,7 @@
 
 // function friend(friends){
 //     //your code here
-//     return friends.filter(name => name.length === 4)
+//     return friends.filter(name => name.length === 4);
 //   }
 
 //   console.log(friend(["Ryan", "Kieran", "Mark"]))
