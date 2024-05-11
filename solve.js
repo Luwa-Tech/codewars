@@ -35,8 +35,8 @@
 //     };
 //   };
 
-//   console.log(bmi(80, 1.80))
-//   console.log(bmi(80, 1.80))
+//   console.log(bmi(80, 1.80));
+//   console.log(bmi(80, 1.80));
 
 // function friend(friends){
 //     //your code here
@@ -72,13 +72,13 @@
 // const fakeBin = (stringDigits) => {
 //     // return stringDigits.split('').map(char => {
 //     //     return parseInt(char) < 5 ? "0" : "1"
-//     // }).join('')
+//     // }).join('');
 
-//     let result = ''
+//     let result = '';
 //     for (let digit of stringDigits) {
 //         if ( parseInt(digit) < 5 ) {
 //             result += '0';
-//         }else {
+//         } else {
 //             result += '1';
 //         }
 //     }
@@ -86,7 +86,7 @@
 // }
 
 
-// console.log(fakeBin("366058562030849490134388085 "))
+// console.log(fakeBin("366058562030849490134388085"));
 
 // Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
 
