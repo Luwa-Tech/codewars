@@ -104,16 +104,15 @@
 // }
 // //when sort() compares two values, it seends the values to the
 // //compe function, accorrding to the returned (negative, zero, positive value)
-// console.log(rearrange(123456789))
-
+// console.log(rearrange(123456789));
 
 // class SmallestIntegerFinder {
 //   findSmallestInt(args) {
 //     //sort array in an ascending order
 //     //get the first integer from array
 //     //return result
-//     let sortedArray = args.sort((a,b) => a-b)
-//     return sortedArray[0]
+//     let sortedArray = args.sort((a,b) => a-b);
+//     return sortedArray[0];
 //   }
 // }
 
