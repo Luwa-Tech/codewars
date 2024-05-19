@@ -116,13 +116,13 @@
 //   }
 // }
 
-// let test = new SmallestIntegerFinder()
-// console.log(test.findSmallestInt([78,56,232,12,8]))
+// let test = new SmallestIntegerFinder();
+// console.log(test.findSmallestInt([78,56,232,12,8]));
 
 // const abbrevName = (name) => {
 //     let nameArr = name.split(' ');
 //     let abbrev = `${nameArr[0][0]}.${nameArr[1][0]}`
-//     return abbrev.toUpperCase()
+//     return abbrev.toUpperCase();
 // }
 
 // console.log(abbrevName("Sam Harris"))
