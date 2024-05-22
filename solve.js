@@ -125,7 +125,7 @@
 //     return abbrev.toUpperCase();
 // }
 
-// console.log(abbrevName("Sam Harris"))
+// console.log(abbrevName("Sam Harris"));
 
 // function grow(x){
 //     return x.reduce((cur, next) => cur * next);
@@ -154,7 +154,7 @@
 //   for (let char of str) {
 //     if(vowelsArray.some(el => char === el)) {
 //       vowelCount += 1;
-//     }else {
+//     } else {
 //       continue;
 //     }
 //   }
@@ -190,8 +190,8 @@
 // and for any array arr: contain_all_rots("", arr) --> true
 
 // var FindFunction = function(func, arr) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-//     let sortedArray = func.sort((a, b) => a-b)
-//     let newFunc = sortedArray[0]
+//     let sortedArray = func.sort((a, b) => a-b);
+//     let newFunc = sortedArray[0];
 //     return arr.filter(a => newFunc(a))
 
 // let newFunc
