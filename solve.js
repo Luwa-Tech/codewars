@@ -206,12 +206,12 @@
 
 // function reOrdering(text){
 //   //your code here
-//   let newArr = text.split(' ')
+//   let newArr = text.split(' ');
 //   let upperStr;
 //   for (let i = 0; i < newArr.length; i++) {
 //     if(isUpperCase(newArr[i])) {
-//       upperStr = newArr[i]
-//       newArr.splice(newArr.indexOf(upperStr), 1)
+//       upperStr = newArr[i];
+//       newArr.splice(newArr.indexOf(upperStr), 1);
 //       newArr.unshift(upperStr)
 //       break;
 //     }
