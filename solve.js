@@ -216,14 +216,14 @@
 //       break;
 //     }
 //   }
-//   return newArr.join(' ')
+//   return newArr.join(' ');
 // }
 
 // function isUpperCase(str){
-//   return str.charAt(0).toUpperCase() === str.charAt(0)
+//   return str.charAt(0).toUpperCase() === str.charAt(0);
 // }
 
-// console.log(reOrdering('ming Yao'))
+// console.log(reOrdering('ming Yao'));
 
 
 // function arr2bin(arr){
@@ -258,10 +258,10 @@
 //   even = sArr.map((char, index) => index % 2 == 0 ? char.toUpperCase() : char).join('')
 //   odd = sArr.map((char, index) => index % 2 !== 0 ? char.toUpperCase() : char).join('')
   
-//   return [even, odd]
+//   return [even, odd];
 // }
 
-// console.log(capitalize('abcdef'))
+// console.log(capitalize('abcdef'));
 
 
 // function min(arr, toReturn) {
