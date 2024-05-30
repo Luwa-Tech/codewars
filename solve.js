@@ -290,7 +290,7 @@
 //         return false;
 // }
 
-// console.log(nbYear(1500000, 2.5, 10000, 2000000))
+// console.log(nbYear(1500000, 2.5, 10000, 2000000));
 
 // function smallEnough(a, limit){
 //   return a.every(i => i <= limit);
@@ -302,7 +302,7 @@
 //   }
   
 //   if (!str.includes(ending)) {
-//     return false
+//     return false;
 //   }
   
 //   const arg1LastChar = str.charAt(str.length - 1);
