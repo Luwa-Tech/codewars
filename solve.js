@@ -149,10 +149,12 @@
 
 // function getCount(str) {
 //   let vowelsArray = ['a', 'e', 'i', 'o', 'u'];
+
 //   let vowelCount = 0;
   
 //   for (let char of str) {
 //     if(vowelsArray.some(el => char === el)) {
+
 //       vowelCount += 1;
 //     } else {
 //       continue;
