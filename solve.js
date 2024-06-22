@@ -39,7 +39,7 @@
 
 // function friend(friends){
 //     return friends.filter(name => name.length === 4);
-//   }
+//   };
 
 //   console.log(friend(["Ryan", "Kieran", "Mark"]));
 //   console.log(friend(["Ryan", "Kieran", "Mark"]));
@@ -57,7 +57,7 @@
 //       }
 //     }
 //     return updatedString;
-//   }
+//   };
 
 //   console.log(removeExclamationMarks("Hello World!"));
 
