@@ -205,8 +205,7 @@
 // }
 // console.log(FindFunction([(a=>a%2==0),9,3,1,0],[1,2,3,4]));
 
-// function reOrdering(text){
-//   //your code here
+// function reOrdering(text) {
 //   let newArr = text.split(' ');
 //   let upperStr;
 //   for (let i = 0; i < newArr.length; i++) {
