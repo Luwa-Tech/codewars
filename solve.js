@@ -226,7 +226,7 @@
 // console.log(reOrdering('ming Yao'));
 
 
-// function arr2bin(arr){
+// function arr2bin(arr) {
 //   //check if array contains a non-integer and return false
 //   //sum all items of array and return binary equivalent
 //   if(arr.length === 0) {
@@ -239,7 +239,7 @@
 //   return sum.toString(2);
 // }
 
-// function capitalize(s){
+// function capitalize(s) {
 //   let sArr = s.split('');
 //   let even = '';
 //   let odd = '';
