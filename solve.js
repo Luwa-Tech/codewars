@@ -244,7 +244,7 @@
 //   let even = '';
 //   let odd = '';
   
-//   // for(let char of sArr) {
+//   // for (let char of sArr) {
 //   //   if (sArr.indexOf(char) % 2) {
 //   //     even += char.toUpperCase();
 //   //     odd += char;
@@ -263,8 +263,7 @@
 
 // console.log(capitalize('abcdef'));
 
-
-// function min(arr, toReturn) {
+// function min (arr, toReturn) {
 //   let smallest = Math.min(...arr);
 
 //   let indexOfSmallest = arr.indexOf(smallest);
