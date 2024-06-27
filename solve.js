@@ -271,7 +271,7 @@
 //   return toReturn === 'value' ? smallest : indexOfSmallest;
 // }
 
-// function nbYear(p0, percent, aug, p) {
+// function nbYear (p0, percent, aug, p) {
 //         let percentIncrease = percent / 100;
 //         let numberOfYears = 1;
 //         let result;
@@ -291,7 +291,7 @@
 
 // console.log(nbYear(1500000, 2.5, 10000, 2000000));
 
-// function smallEnough(a, limit){
+// function smallEnough (a, limit){
 //   return a.every(i => i <= limit);
 // }
 
