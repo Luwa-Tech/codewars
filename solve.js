@@ -265,9 +265,7 @@
 
 // function min (arr, toReturn) {
 //   let smallest = Math.min(...arr);
-
 //   let indexOfSmallest = arr.indexOf(smallest);
-  
 //   return toReturn === 'value' ? smallest : indexOfSmallest;
 // }
 
@@ -295,7 +293,7 @@
 //   return a.every(i => i <= limit);
 // }
 
-// function solution(str, ending){
+// function solution (str, ending){
 //   if (ending === "") {
 //     return true;
 //   }
