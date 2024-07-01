@@ -307,7 +307,7 @@
   
 //   if (arg1LastChar === arg2LastChar) {
 //     return true;
-//   }else {
+//   } else {
 //     return false;
 //   }
 // }
