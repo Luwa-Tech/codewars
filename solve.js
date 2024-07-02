@@ -239,7 +239,7 @@
 //   return sum.toString(2);
 // }
 
-// function capitalize(s) {
+// function capitalize (s) {
 //   let sArr = s.split('');
 //   let even = '';
 //   let odd = '';
