@@ -219,7 +219,7 @@
 //   return newArr.join(' ');
 // }
 
-// function isUpperCase(str){
+// function isUpperCase (str){
 //   return str.charAt(0).toUpperCase() === str.charAt(0);
 // }
 
