@@ -219,12 +219,11 @@
 //   return newArr.join(' ');
 // }
 
-// function isUpperCase (str){
+// function isUpperCase (str) {
 //   return str.charAt(0).toUpperCase() === str.charAt(0);
 // }
 
 // console.log(reOrdering('ming Yao'));
-
 
 // function arr2bin(arr) {
 //   //check if array contains a non-integer and return false
