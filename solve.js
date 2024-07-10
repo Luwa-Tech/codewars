@@ -67,8 +67,6 @@
 
 //(fakeBin('509321967506747'), '101000111101101'); 
 
-//fakeBin('366058562030849490134388085'), '011011110000101010000011011');
-
 // const fakeBin = (stringDigits) => {
 //     // return stringDigits.split('').map(char => {
 //     //     return parseInt(char) < 5 ? "0" : "1"
