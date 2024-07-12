@@ -37,7 +37,7 @@
 
 //   console.log(bmi(80, 1.80));
 
-// function friend(friends){
+// function friend(friends) {
 //     return friends.filter(name => name.length === 4);
 //   };
 
@@ -59,7 +59,7 @@
 //     return updatedString;
 //   };
 
-//   console.log(removeExclamationMarks("Hello World!"));
+// console.log(removeExclamationMarks("Hello World!"));
 
 //Given a string of digits, you should replace any digit below 5 //with '0' and any digit 5 and above with '1'. Return the resulting string.
 
