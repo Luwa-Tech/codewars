@@ -17,7 +17,6 @@
 // console.log(findAverage([1,2,3,4]));
 
 // console.log(findAverage([1,2,3,4]));
-// console.log(findAverage([1,2,3,4]));
 
 // function bmi(weight, height) {
 //     let BMI = weight / (height * height);
@@ -27,7 +26,7 @@
 //     } else if (BMI <= 25.0) {
 //       return "Normal";
 //     } else if (BMI <= 30.0) {
-//       return "Overweight"
+//       return "Overweight";
 //     } else {
 //       return "Obese";
 //     };
