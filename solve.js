@@ -18,7 +18,7 @@
 
 // console.log(findAverage([1,2,3,4]));
 
-// function bmi(weight, height) {
+// const bmi = (weight, height) => {
 //     let BMI = weight / (height * height);
 
 //     if (BMI <= 18.5) {
