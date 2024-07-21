@@ -146,7 +146,6 @@
 
 // function getCount (str) {
 //   let vowelsArray = ['a', 'e', 'i', 'o', 'u'];
-
 //   let vowelCount = 0;
   
 //   for (let char of str) {
