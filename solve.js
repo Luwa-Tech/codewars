@@ -127,7 +127,7 @@
 //     return x.reduce((cur, next) => cur * next);
 //   }
 
-// function minMax (arr){
+// const minMax = (arr) => {
 //     let min = Math.min(...arr);
 
 //     let max = Math.min(...arr);
