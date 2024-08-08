@@ -36,7 +36,7 @@
 
 //   console.log(bmi(80, 1.80));
 
-// function friend(friends) {
+// const friend = (friends) => {
 //     return friends.filter(name => name.length === 4);
 //   };
 
