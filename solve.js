@@ -144,7 +144,7 @@
 //     return false;
 //   }
 
-// function getCount (str) {
+// const getCount = (str) => {
 //   let vowelsArray = ['a', 'e', 'i', 'o', 'u'];
 //   let vowelCount = 0;
   
