@@ -215,7 +215,7 @@
 //   return newArr.join(' ');
 // }
 
-// function isUpperCase (str) {
+// const isUpperCase = (str) => {
 //   return str.charAt(0).toUpperCase() === str.charAt(0);
 // }
 
