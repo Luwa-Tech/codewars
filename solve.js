@@ -221,7 +221,7 @@
 
 // console.log(reOrdering('ming Yao'));
 
-// function arr2bin(arr) {
+// const arr2bin = (arr) => {
 //   //check if array contains a non-integer and return false
 //   //sum all items of array and return binary equivalent
 //   if(arr.length === 0) {
