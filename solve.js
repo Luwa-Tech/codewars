@@ -234,7 +234,7 @@
 //   return sum.toString(2);
 // }
 
-// function capitalize (s) {
+// const capitalize = (s) => {
 //   let sArr = s.split('');
 //   let even = '';
 //   let odd = '';
