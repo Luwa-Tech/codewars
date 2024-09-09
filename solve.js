@@ -264,7 +264,7 @@
 //   return toReturn === 'value' ? smallest : indexOfSmallest;
 // }
 
-// function nbYear (p0, percent, aug, p) {
+// const nbYear = (p0, percent, aug, p) => {
 //         let percentIncrease = percent / 100;
 //         let numberOfYears = 1;
 //         let result;
