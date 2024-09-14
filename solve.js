@@ -284,7 +284,7 @@
 
 // console.log(nbYear(1500000, 2.5, 10000, 2000000));
 
-// function smallEnough (a, limit){
+// const smallEnough = (a, limit) => {
 //   return a.every(i => i <= limit);
 // }
 
