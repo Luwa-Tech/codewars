@@ -288,7 +288,7 @@
 //   return a.every(i => i <= limit);
 // }
 
-// function solution (str, ending){
+// const solution = (str, ending) => {
 //   if (ending === "") {
 //     return true;
 //   }
