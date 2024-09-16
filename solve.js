@@ -177,8 +177,6 @@
 // false otherwise
 // Examples:
 
-// contain_all_rots(
-//   "Ajylvpy", ["Ajylvpy", "ylvpyAj", "jylvpyA", "lvpyAjy", "pyAjylv", "vpyAjyl", "ipywee"]) -> false)
 
 // Note:
 // Though not correct in a mathematical sense
