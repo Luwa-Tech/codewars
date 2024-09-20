@@ -177,13 +177,6 @@
 // false otherwise
 // Examples:
 
-
-// Note:
-// Though not correct in a mathematical sense
-
-// we will consider that there are no rotations of strng == ""
-// and for any array arr: contain_all_rots("", arr) --> true
-
 // const FindFunction = (func, arr) => {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 //     let sortedArray = func.sort((a, b) => a-b);
 //     let newFunc = sortedArray[0];
