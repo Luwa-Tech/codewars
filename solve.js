@@ -173,10 +173,6 @@
 // an array of strings arr
 // Output of function contain_all_rots(strng, arr) (or containAllRots or contain-all-rots):
 
-// a boolean true if all rotations of strng are included in arr
-// false otherwise
-// Examples:
-
 // const FindFunction = (func, arr) => {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 //     let sortedArray = func.sort((a, b) => a-b);
 //     let newFunc = sortedArray[0];
