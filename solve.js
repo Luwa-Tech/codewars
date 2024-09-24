@@ -171,7 +171,6 @@
 
 // a string strng
 // an array of strings arr
-// Output of function contain_all_rots(strng, arr) (or containAllRots or contain-all-rots):
 
 // const FindFunction = (func, arr) => {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 //     let sortedArray = func.sort((a, b) => a-b);
