@@ -169,9 +169,6 @@
 // DESCRIPTION:
 // Input:
 
-// a string strng
-// an array of strings arr
-
 // const FindFunction = (func, arr) => {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 //     let sortedArray = func.sort((a, b) => a-b);
 //     let newFunc = sortedArray[0];
