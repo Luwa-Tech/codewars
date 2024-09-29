@@ -166,8 +166,6 @@
 //   }
 // };
 
-// DESCRIPTION:
-// Input:
 
 // const FindFunction = (func, arr) => {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 //     let sortedArray = func.sort((a, b) => a-b);
