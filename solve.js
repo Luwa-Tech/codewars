@@ -129,9 +129,7 @@
 
 // const minMax = (arr) => {
 //     let min = Math.min(...arr);
-
 //     let max = Math.min(...arr);
-
 //     return [min, max];
 // }
 
@@ -150,7 +148,6 @@
   
 //   for (let char of str) {
 //     if(vowelsArray.some(el => char === el)) {
-
 //       vowelCount += 1;
 //     } else {
 //       continue;
@@ -165,7 +162,6 @@
 //     return `found the needle at position ${index}`;
 //   }
 // };
-
 
 // const FindFunction = (func, arr) => {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 //     let sortedArray = func.sort((a, b) => a-b);
