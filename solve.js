@@ -94,8 +94,7 @@
 //     //then return result
 //     return parseInt(nonInteger.toString().split('').sort((a, b) => b-a).join(''))
 // }
-// //when sort() compares two values, it seends the values to the
-// //compe function, accorrding to the returned (negative, zero, positive value)
+
 // console.log(rearrange(123456789));
 
 // class SmallestIntegerFinder {
