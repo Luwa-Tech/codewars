@@ -71,6 +71,7 @@
 //     //     return parseInt(char) < 5 ? "0" : "1"
 //     // }).join('');
 
+// const digits = (stringDigits) => {
 //     let result = '';
 //     for (let digit of stringDigits) {
 //         if ( parseInt(digit) < 5 ) {
@@ -82,9 +83,7 @@
 //     return result;
 // }
 
-
 // console.log(fakeBin("366058562030849490134388085"));
-
 
 // const rearrange = (nonInteger) => {
 //     //convert integer to string
