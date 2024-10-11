@@ -41,7 +41,6 @@
 //   };
 
 //   console.log(friend(["Ryan", "Kieran", "Mark"]));
-//   console.log(friend(["Ryan", "Kieran", "Mark"]));
 
 // const removeExclamationMarks = (s) => {
 //     //loop through given string
