@@ -16,8 +16,6 @@
 
 // console.log(findAverage([1,2,3,4]));
 
-// console.log(findAverage([1,2,3,4]));
-
 // const bmi = (weight, height) => {
 //     let BMI = weight / (height * height);
 
