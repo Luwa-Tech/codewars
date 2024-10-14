@@ -1,5 +1,4 @@
 // const findAverage = (array) => {
-//   // your code here
 // if ( array.length > 0 ) {
 //     let sum = array.reduce((cur, next) => {
 //         return cur + next;
