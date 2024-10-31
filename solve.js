@@ -77,7 +77,7 @@
 //     return result;
 // }
 
-// console.log(fakeBin("366058562030849490134388085"));
+// console.log(fakeBin("366058562030849490134388085"))
 
 // const rearrange = (nonInteger) => {
 //     //convert integer to string
