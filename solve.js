@@ -29,8 +29,6 @@
 
 //   console.log(bmi(80, 1.80));
 
-//   console.log(bmi(80, 1.80));
-
 // const friend = (friends) => {
 //     return friends.filter(name => name.length === 4);
 //   };
