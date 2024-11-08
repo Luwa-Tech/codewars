@@ -36,7 +36,7 @@
 //   console.log(friend(["Ryan", "Kieran", "Mark"]));
 
 // const removeExclamationMarks = (s) => {
-//     let updatedString = ''
+//     let updatedString = '';
 //     for (let i = 0; i < s.length; i++) {
 //       if (s[i] === "!") {
 //           continue;
@@ -50,8 +50,6 @@
 // console.log(removeExclamationMarks("Hello World!"));
 
 //fakeBin('45385593107843568'), '01011110001100111');
-
-//(fakeBin('509321967506747'), '101000111101101'); 
 
 // const fakeBin = (stringDigits) => {
 //     // return stringDigits.split('').map(char => {
