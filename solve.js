@@ -260,4 +260,4 @@
 //     return false;
 //   }
 // }
-// let name = lorem ipsum dolor
+// let name = lorem ipsum dolor;
