@@ -260,4 +260,4 @@
 //     return false;
 //   }
 // }
-// let name = lorem ipsum dolor kwasu lolo;
+// let lorem = lorem ipsum dolor kwasu lolo;
