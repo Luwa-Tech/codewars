@@ -260,4 +260,4 @@
 //     return false;
 //   }
 // }
-// let lorem = lorem ipsum dolor kwasu lolo;
+// var lorem = lorem ipsum dolor kwasu lolo;
