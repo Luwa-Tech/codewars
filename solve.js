@@ -261,4 +261,4 @@
 //   }
 // }
 
-// const text = lorem ipsum dolor lolo;
+// const newText = lorem ipsum dolor lolo;
